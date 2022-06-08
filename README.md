@@ -2,6 +2,7 @@
 ESPHome - mmWave Presence Detection - Home Assistant - DFRobot - Wemos D1 Mini - Node Red
 
 ![DFRobot mmWave Radar SEN0395](https://raw.githubusercontent.com/allfab/dfrobot-mmWave-radar-project/main/02-DFRobot%20mmWave%20SEN0395/Images/ori-detecteur-de-presence-mmwave-sen0395-34207-light.jpg)
+![AZDelivery D1 Mini V3](https://raw.githubusercontent.com/allfab/dfrobot-mmWave-radar-project/main/01-Arduino%20D1%20Mini%20V3/Images/d1miniv3-light.jpg)
 
 
 Ce projet s'inspire de la vidéo de **Everything Smart Home** et de sa vidéo **["I Built My Own Presence Detection Sensor!"](https://www.youtube.com/watch?v=VEqWlOeJ2YA)**
