@@ -23,8 +23,8 @@ Le capteur retenu est le capteur de la marque DFRobot SEN0395 qui a les fonction
 
 | D1 Mini V3    | DFRobot mmWave SEN0395 |
 |:-------------:|:----------------------:|
-| D1            | Rx                     |
-| D2            | Tx                     |
+| Rx            | Rx                     |
+| Tx            | Tx                     |
 | D0 (GPIO16)   | IO2                    |
 | V 5v          | V                      |
 | G             | G                      |
