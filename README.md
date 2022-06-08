@@ -1,6 +1,8 @@
 # Détection de présence à ondes millimétriques : DFRobot mmWave Radar Project
 ESPHome - mmWave Presence Detection - Home Assistant - DFRobot - Wemos D1 Mini - Node Red
- 
+
+![DFRobot mmWave Radar SEN0395](https://raw.githubusercontent.com/allfab/dfrobot-mmWave-radar-project/main/02-DFRobot%20mmWave%20SEN0395/Images/dfrobot-sen0395.png "DFRobot mmWave Radar SEN0395")
+
 Ce projet s'inspire de la vidéo de **Everything Smart Home** et de sa vidéo **["I Built My Own Presence Detection Sensor!"](https://www.youtube.com/watch?v=VEqWlOeJ2YA)**
 
 L'un des projets les plus utiles déployés à ce jour à l'aide d'Home Assistant est l'éclairage basé sur le mouvement.
