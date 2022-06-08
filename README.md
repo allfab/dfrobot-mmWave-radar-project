@@ -31,7 +31,9 @@ Le capteur retenu est le capteur de la marque DFRobot SEN0395 qui a les fonction
 | V 5v          | V                      |
 | G             | G                      |
 
-##### D1 Mini V3
+##### D1 Mini V3 - Brochage
+![Brochage D1 Mini V3]()
+
 
 ### Liens
 + mmWave sensor (DFRobot) : https://www.gotronic.fr/art-detecteur-de-presence-mmwave-sen0395-34207.htm
