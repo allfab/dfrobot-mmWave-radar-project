@@ -17,6 +17,9 @@ Le capteur retenu est le capteur de la marque DFRobot SEN0395 qui a les fonction
 + Forte capacité anti-interférence : n'est pas affecté par la neige, la brume, la température, l'humidité, la poussière, la lumière, le bruit, etc...
 
 
+### Diagramme de connexion
+
+![Diagramme](https://raw.githubusercontent.com/allfab/dfrobot-mmWave-radar-project/main/03-Connection%20diagram/Connection%20Diagram%20-%20D1%20Mini%20V3%20-%20DFRobot%20mmWave%20Radar%20Light.jpg)
 
 ### Liens
 + mmWave sensor (DFRobot) : https://www.gotronic.fr/art-detecteur-de-presence-mmwave-sen0395-34207.htm
