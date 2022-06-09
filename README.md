@@ -21,7 +21,7 @@ Le capteur retenu est le capteur de la marque DFRobot SEN0395 qui a les fonction
 
 ##### D1 Mini V3 <-> DFRobot mmWave SEN0395
 
-![Diagramme](https://raw.githubusercontent.com/allfab/dfrobot-mmWave-radar-project/main/03-Connection%20diagram/Connection%20Diagram%20-%20D1%20Mini%20V3%20-%20DFRobot%20mmWave%20Radar%20Light.jpg)
+![Diagramme](https://raw.githubusercontent.com/allfab/dfrobot-mmWave-radar-project/main/03-Connection%20diagram/Connection%20Diagram%20-%20D1%20Mini%20V3%20-%20DFRobot%20mmWave%20Radar.png)
 
 | D1 Mini V3    | DFRobot mmWave SEN0395 |
 |:-------------:|:----------------------:|
