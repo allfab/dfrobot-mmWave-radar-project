@@ -38,5 +38,5 @@ Le capteur retenu est le capteur de la marque DFRobot SEN0395 qui a les fonction
 ### Liens
 + mmWave sensor (DFRobot) : https://www.gotronic.fr/art-detecteur-de-presence-mmwave-sen0395-34207.htm
 + Wemos D1 Mini : https://www.amazon.fr/dp/B08BTRPMV1?ref_=cm_sw_r_cp_ud_dp_PRTYDE7ZZDD44NCW4G22
-+ Forum Home Assistant : https://bit.ly/3agi5YE
-+ DFRobot Wiki Page : https://bit.ly/3wZ3Jn1
++ Forum Home Assistant : https://community.home-assistant.io/t/mmwave-presence-detection-esphome-style/382778
++ DFRobot Wiki Page : https://wiki.dfrobot.com/mmWave_Radar_Human_Presence_Detection_SKU_SEN0395
